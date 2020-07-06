@@ -25,3 +25,51 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1{
+    background-color: orange;
+}
+
+.cat2{
+    background-color: orchid;
+
+}
+
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+
+.catogories h1{
+    color: white;
+}
+
+.catogories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#subscribe{
+    height: 300px;
+    background-color:#fceae8;
+    border-radius: 8px;
+}
+#subscribe h6{
+    color: gray;
+}
+
+footer{
+    text-align: center;
+}
